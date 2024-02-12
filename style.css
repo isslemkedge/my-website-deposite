@@ -1,0 +1,187 @@
+/* Couleurs */
+#ral-img-1 {
+	width: 500px;
+}
+
+#ral-img-2 {
+	width: 392px;
+}
+
+.im-ral {
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	height: 100vh;
+}
+
+#teint-img-1 {
+	width: 300px;
+}
+
+#teint-img-2 {
+	width: 400px;
+}
+
+.text {
+	padding: 150px;
+}
+
+.im-teint {
+	display: flex;
+	justify-content: right;
+	align-content: right;
+	height: 75vh;
+}
+
+#lip-img-1 {
+	width: 305px ;
+}
+
+#lip-img-2 {
+	width: 300px;
+}
+
+.im-lip {
+	display: flex;
+	justify-content: right;
+	align-content: right;
+	height: 75vh;
+}
+
+#glob-img-1 {
+	width: 800px ;
+}
+
+.im-glob {
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	height: 70vh;
+}
+
+.img-text {
+	display: flex;
+	text-align: center;
+}
+
+#eyes-img-1 {
+	width: 400px;
+}
+
+#eyes-img-2 {
+	width: 400px;
+}
+
+.im-eyes {
+	display: flex;
+	justify-content: right;
+	align-content: right;
+	height: 80vh;
+}
+
+#main-img-1{
+	width: 200px;
+}
+
+#main-img-2{
+	width: 200px;
+}
+
+#main-img-3{
+	width: 200px;
+}
+
+#main-img-4{
+	width: 200px;
+}
+
+.main {
+	display: flex;
+	justify-content: center;
+	height: 30vh;
+	align-content: center;
+ 	flex-direction: row;
+}
+
+
+.im-body {
+	display: flex;
+	justify-content: center;
+	height: 60vh;
+}
+
+#corps {
+	text-align: center;
+}
+
+#shade {
+	text-align: center;
+}
+
+
+/* Couleurs */
+
+body {
+  background-color: #bcb8b1; 
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+.banner {
+	background-image: url(images/banner7.jpg);
+	background-size: contain;
+}
+
+
+/* Typographie */
+
+h1, h2, h3, h4, h5, h6 , h10, h11, h12, h13, h14, h15 {
+  font-family: AVENIR NEXT CONDENSED; 
+  font-weight: bold;
+  Font-weight: UPPER;
+  color : white;
+}
+
+h2 {
+	text-align: center;
+}
+p {
+  font-family: Andale Mono;
+  font-weight: normal;
+  line-height: 1.5;
+}
+
+.banner { 
+	padding: 150px;
+} 
+
+/* En-tête */
+
+header {
+  text-align: center;
+  padding: 40px ;
+}
+
+.bas-de-page {
+  margin-top: 10vh; /* Ajustez la valeur en fonction de la hauteur de votre contenu */
+}
+
+nav {
+	display : flex;
+ 	flex-direction: row;
+	justify-content: center;
+}
+
+nav a 	{
+  float: center;
+  margin-bottom: 20px;
+  padding: 20px;
+  align-content: center;
+}
+
+
+
+
